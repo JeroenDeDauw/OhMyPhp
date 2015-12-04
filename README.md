@@ -27,7 +27,9 @@ Oh My PHP 0.1.x:
 ## Testimonials
 
 > APPROVED!
+
 -- [Ocramius](https://twitter.com/Ocramius/status/672915271389179905)
 
 > splendid!
+
 -- [Michał Łazowik](https://twitter.com/mlazowik)
