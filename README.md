@@ -33,3 +33,7 @@ Oh My PHP 0.1.x:
 > splendid!
 
 -- [Michał Łazowik](https://twitter.com/mlazowik)
+
+> http://forums.asaypub.com/2000/php_help_meme.jpg & http://m.memegen.com/3gy2fw.jpg
+
+-- [addshore](https://twitter.com/addshore)
