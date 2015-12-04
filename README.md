@@ -30,7 +30,7 @@ Oh My PHP 0.1.x:
 
 -- [Ocramius](https://twitter.com/Ocramius/status/672915271389179905)
 
-> splendid!
+> splendid! lovely! fabulous!
 
 -- [Michał Łazowik](https://twitter.com/mlazowik)
 
