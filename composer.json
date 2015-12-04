@@ -1,0 +1,29 @@
+{
+	"name": "jeroen/oh-my-php",
+	"description": "Tiny library containing some things to work around common PHP problems",
+	"homepage": "https://github.com/JeroenDeDauw/OhMyPhp",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Jeroen De Dauw",
+			"email": "jeroendedauw@gmail.com",
+			"homepage": "http://jeroendedauw.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5"
+	},
+	"require-dev": {
+		"whatthejeff/nyancat-phpunit-resultprinter": "~1.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"OhMyPhp\\": "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1.x-dev"
+		}
+	}
+}
