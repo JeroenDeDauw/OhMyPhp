@@ -23,3 +23,17 @@ Oh My PHP 0.2.x:
     }
 }
 ```
+
+## Testimonials
+
+> APPROVED!
+
+-- [Ocramius](https://twitter.com/Ocramius/status/672915271389179905)
+
+> splendid! lovely! fabulous!
+
+-- [Michał Łazowik](https://twitter.com/mlazowik)
+
+> http://forums.asaypub.com/2000/php_help_meme.jpg & http://m.memegen.com/3gy2fw.jpg
+
+-- [addshore](https://twitter.com/addshore)
