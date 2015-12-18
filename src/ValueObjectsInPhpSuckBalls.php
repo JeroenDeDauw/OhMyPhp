@@ -21,7 +21,7 @@ namespace OhMyPhp;
  * @licence GNU GPL v2+
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
-trait ValueObjectsInPhpStuckBalls {
+trait ValueObjectsInPhpSuckBalls {
 
 	public static function newInstance() {
 		return new self();

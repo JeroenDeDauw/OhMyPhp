@@ -14,12 +14,12 @@ Works with PHP 5.5+, including PHP7 and HHVM
 To add this package as a local, per-project dependency to your project, simply add a
 dependency on `jeroen/oh-my-php` to your project's `composer.json` file.
 Here is a minimal example of a `composer.json` file that just defines a dependency on
-Oh My PHP 0.1.x:
+Oh My PHP 0.2.x:
 
 ```js
 {
     "require": {
-        "jeroen/oh-my-php": "~0.1.0"
+        "jeroen/oh-my-php": "~0.2.0"
     }
 }
 ```

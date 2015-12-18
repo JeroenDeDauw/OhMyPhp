@@ -9,5 +9,5 @@ namespace OhMyPhp;
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  */
 trait ValueObjectTrait {
-	use ValueObjectsInPhpStuckBalls;
+	use ValueObjectsInPhpSuckBalls;
 }

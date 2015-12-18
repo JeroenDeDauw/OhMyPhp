@@ -1,6 +1,6 @@
 <?php
 
-use OhMyPhp\ValueObjectsInPhpStuckBalls;
+use OhMyPhp\ValueObjectsInPhpSuckBalls;
 use OhMyPhp\ValueObjectTrait;
 
 /**
@@ -80,7 +80,7 @@ class ValueObjectsInPhpStuckBallsTest extends \PHPUnit_Framework_TestCase {
 }
 
 class SuckyPhpValueObject {
-	use ValueObjectsInPhpStuckBalls;
+	use ValueObjectsInPhpSuckBalls;
 
 	public $foo;
 	public $bar;
@@ -98,7 +98,7 @@ class PhpValueObject {
 }
 
 class ExtraSuckyPhpValueObject{
-	use ValueObjectsInPhpStuckBalls;
+	use ValueObjectsInPhpSuckBalls;
 
 	public $foo;
 	public $bar;
